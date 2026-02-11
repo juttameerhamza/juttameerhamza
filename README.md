@@ -10,6 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juttameerhamza)
 [![Email](https://img.shields.io/badge/Email-juttameerhamza%40gmail.com-080808?style=for-the-badge&logo=gmail&logoColor=%23E8C59F)](mailto:juttameerhamza@gmail.com)
 
+**Connect:** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/juttameerhamza) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/juttameerhamza1) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10436093)
+
 </div>
 
 ---
