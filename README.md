@@ -137,16 +137,66 @@ const ameer = {
 ## `> process`
 
 <div align="center">
+<br/>
 
-```
-  ╔══════════════╗      ╔══════════════════════╗      ╔════════════╗
-  ║   SPECIFY    ║ ───► ║  DESIGN & DEVELOP    ║ ───► ║   VERIFY   ║
-  ║              ║      ║                      ║      ║            ║
-  ║  Specs first ║      ║  Architecture + AI   ║      ║  Ship with ║
-  ║  Constraints ║      ║  Guardrails + Code   ║      ║  confidence║
-  ╚══════════════╝      ╚══════════════════════╝      ╚════════════╝
-```
+<table>
+<tr>
+<td align="center" width="280">
+<br/>
+<img src="https://img.shields.io/badge/01-E8C59F?style=for-the-badge&logoColor=080808" />
+<h3>SPECIFY</h3>
+<p><strong>Define the what & why</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Requirements-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/Constraints-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/Specs-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/Edge_Cases-1a1a1a?style=flat-square&logoColor=E8C59F" />
+</p>
+<sub>Specs before code. Always.</sub>
+<br/><br/>
+</td>
+<td align="center" width="60">
 
+**`►`**
+
+</td>
+<td align="center" width="280">
+<br/>
+<img src="https://img.shields.io/badge/02-E8C59F?style=for-the-badge&logoColor=080808" />
+<h3>DESIGN & DEVELOP</h3>
+<p><strong>Architecture + AI + Code</strong></p>
+<p>
+<img src="https://img.shields.io/badge/System_Design-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/Guardrails-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/AI_Collab-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/Clean_Code-1a1a1a?style=flat-square&logoColor=E8C59F" />
+</p>
+<sub>Build it right the first time.</sub>
+<br/><br/>
+</td>
+<td align="center" width="60">
+
+**`►`**
+
+</td>
+<td align="center" width="280">
+<br/>
+<img src="https://img.shields.io/badge/03-E8C59F?style=for-the-badge&logoColor=080808" />
+<h3>VERIFY & SHIP</h3>
+<p><strong>Confidence at every deploy</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Testing-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/Review-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/CI%2FCD-1a1a1a?style=flat-square&logoColor=E8C59F" />
+<img src="https://img.shields.io/badge/Monitor-1a1a1a?style=flat-square&logoColor=E8C59F" />
+</p>
+<sub>Ship with confidence, not hope.</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 </div>
 
 ---
