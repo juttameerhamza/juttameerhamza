@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <a href="https://notjustacoder.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8C59F&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Senior+Full-Stack+Engineer+%7C+Spec-First+%7C+AI-Augmented;Architecture+First+%C2%B7+Scalable+Systems+%C2%B7+Ship+Right" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E8C59F&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Senior+Full-Stack+Engineer+%7C+Spec-First+%7C+AI-Augmented;Architecture+First+%C2%B7+Scalable+Systems+%C2%B7+Ship+Right" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,8 +27,6 @@
 <br/>
 
 <!-- ABOUT -->
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juttameerhamza&theme=react&hide_border=true&bg_color=0d1117&title_color=E8C59F&text_color=a8a8a8&layout=compact&langs_count=8" />
-
 ## `> whoami`
 
 I'm **Muhammad Ameer Hamza** — a Senior Full-Stack Engineer based in **Lahore, Pakistan**, shipping production-ready apps for startups and product teams worldwide.
