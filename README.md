@@ -288,7 +288,6 @@ porfolio/
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=juttameerhamza&theme=react&hide_border=true&bg_color=0d1117&title_color=E8C59F&icon_color=E8C59F&text_color=a8a8a8&ring_color=E8C59F" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=juttameerhamza&theme=react&hide_border=true&background=0d1117&stroke=1a1a1a&ring=E8C59F&fire=E8C59F&currStreakLabel=E8C59F&sideLabels=E8C59F&currStreakNum=a8a8a8&sideNums=a8a8a8&dates=555555" />
 
 <br/>
